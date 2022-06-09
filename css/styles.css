@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 562.5%;
+  color: #66BFBF;
+  line-height: 4;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', sans-serif;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #66BFBF;
+  font-size: 2.5rem
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr{
+
+  width:4%;
+  border-top: dotted #EAF6F6 6px;
+  border-bottom: none;
+
+  padding 10px;
+  margin: auto;
+}
+
+p{
+
+  line-height: 2;
+}
+
+a{
+ color:#11999E;
+ font-family: 'montserrat' sans-serif;
+ margin: 10px 20px ;
+ text-decoration: none;
+
+}
+
+a:hover{
+
+  color:#EAF6F6;
+}
+
+.top-container {
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+  width: auto;
+  height: auto;
+  background-color: #EAF6F6;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.lower-cloud {
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+
+.upper-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+
+}
+
+.mountain {
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 150px auto 150px auto;
+  text-align: left;
+}
+
+.chili-img {
+  float: right;
+  margin-left: 30px;
+
+}
+
+.code-img {
+  float: left;
+  margin-right: 30px;
+  margin-bottom: auto;
+}
+
+.copyright{
+color : #EAF6F6;
+font-size:0.75rem;
+padding:20px 0;
+
+}
+
+.profile{
+
+  margin: 150px auto auto auto;
+}
+
+.texta{
+
+  width:30%;
+
+  margin: auto auto 150px auto;
+}
+
+.contact{
+
+width : 30%;
+
+margin:auto auto 100px auto ;
+
+}
+
+.btn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11989d 100%);
+	background-color:#11cdd4;
+	border-radius:4px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+  margin: auto auto 50px auto;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #11989d 5%, #11cdd4 100%);
+	background-color:#11989d;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container{
+
+  background-color: #66BFBF;
+  padding:30px;
+}
